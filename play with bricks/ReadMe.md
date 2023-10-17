@@ -1,2 +1,1 @@
-{\rtf1}
-I haven't finished yet. I'm still working on how to transfer large files.
+In learning how to upload files over 100Mb
